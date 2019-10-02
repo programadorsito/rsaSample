@@ -3,8 +3,8 @@
 
 ### cat hola>plain
 
-### python rsa.py encrypt plain cipher
+### python rsa.py encrypt key.public plain cipher
 
-### python rsa.py decrypt cipher plaindecrypt
+### python rsa.py decrypt key.private cipher plaindecrypt
 
 ### cat plaindecrypt

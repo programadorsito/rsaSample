@@ -1,7 +1,7 @@
 ## Comandos
 ### python rsa.py init key 20
 
-### cat hola>plain
+### echo hola>plain
 
 ### python rsa.py encrypt key.public plain cipher
 
